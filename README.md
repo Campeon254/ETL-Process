@@ -1,4 +1,4 @@
-# ETL_Midterm_Calvin_035
+# Extraction - Transformation - Loading
 A short project to demonstrate mastery of the ETL process.
 
 ---
